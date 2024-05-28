@@ -1,0 +1,37 @@
+.img {
+    display: block;
+}
+
+.menu-header{
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.header-div {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
+}
+
+.header-nav {
+    display: flex;
+    align-items: center;
+}
+
+.logo-form {
+    margin-right: 73px;
+}
+
+.nav-menu-ul {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-menu-li {
+    padding: 24px 0;
+}
+
+.address-form {
+    display: flex;
+    gap: 40px;
+}
