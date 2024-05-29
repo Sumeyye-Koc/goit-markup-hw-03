@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 **img {
     display: block;
 }
@@ -12,7 +12,6 @@
 }
 
 .header-standart-form {
-    width: 1158px;
     margin: 0 auto;
     padding: 0 15px 0 15px;
 }
@@ -61,7 +60,7 @@
 
 
 .container-div-header {
-
+    width: 1158px;
 }
 
 .section-two-container{
