@@ -35,3 +35,15 @@
     display: flex;
     gap: 40px;
 }
+
+
+.order-button {
+    display: block;
+    margin: auto;
+    min-width: 169px;
+    height: 56px;    
+    border: none;
+    background-color: #4D5AE5;
+    border-radius: 4px;
+    cursor: pointer;
+}
