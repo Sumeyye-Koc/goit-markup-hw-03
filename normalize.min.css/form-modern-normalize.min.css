@@ -132,6 +132,9 @@
     cursor: pointer;
 }
 
+.section-two-htwo{
+    visibility: hidden;
+}
 
 .our-team-form {
     display: flex;
