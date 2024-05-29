@@ -1,4 +1,7 @@
 
+img{
+    display: block;
+}
 .menu-header{
     border-bottom: 1px solid #e7e9fc;
 }
@@ -18,7 +21,7 @@
 }
 
 .logo-form {
-    margin-right: 76px;
+    margin-right:76px;
 }
 
 .nav-menu-ul {
@@ -79,18 +82,13 @@
     display: block;
 }
 
-
-.logo-form {
-    margin-right: 73px;
-}
-
 .nav-menu-ul {
     display: flex;
     gap: 40px;
 }
 
 .nav-menu-li {
-    padding: 24px 0;
+    padding: 24px 0px;
 }
 
 .address-form {
