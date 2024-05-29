@@ -1,8 +1,4 @@
 
-**img {
-    display: block;
-}
-
 .menu-header{
     border-bottom: 1px solid #e7e9fc;
 }
@@ -78,7 +74,7 @@
 
 .hthree-title-form {
     margin-bottom: 8px;
-=======
+}
 .img {
     display: block;
 }
@@ -139,5 +135,5 @@
 
 .container-div {
 
->>>>>>> 697cec9c429e43446b060f74bb9839b230f469eb
+
 }
