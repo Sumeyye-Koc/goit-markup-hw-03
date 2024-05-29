@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **img {
     display: block;
 }
@@ -78,4 +79,66 @@
 
 .hthree-title-form {
     margin-bottom: 8px;
+=======
+.img {
+    display: block;
+}
+
+.menu-header{
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.header-div {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
+}
+
+.header-nav {
+    display: flex;
+    align-items: center;
+}
+
+.logo-form {
+    margin-right: 73px;
+}
+
+.nav-menu-ul {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-menu-li {
+    padding: 24px 0;
+}
+
+.address-form {
+    display: flex;
+    gap: 40px;
+}
+
+.order-title {
+    max-width: 496px;
+}
+
+.order-service {
+    padding: 188px 0px;
+}
+
+.order-button {
+    display: block;
+    margin: auto;
+    min-width: 169px;
+    height: 56px;    
+    border: none;
+    background-color: #4D5AE5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.container-div {
+
+>>>>>>> 697cec9c429e43446b060f74bb9839b230f469eb
 }
