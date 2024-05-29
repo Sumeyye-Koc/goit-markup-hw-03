@@ -8,6 +8,7 @@
 
 .header-div {
     display: flex;
+    width: 1158px;
 }
 
 .header-standart-form {
@@ -29,8 +30,9 @@
     gap: 40px;
 }
 
-.nav-menu-form {
-    padding: 24px 0px;
+.nav-menu-li {
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .address-form {
@@ -82,14 +84,6 @@
     display: block;
 }
 
-.nav-menu-ul {
-    display: flex;
-    gap: 40px;
-}
-
-.nav-menu-li {
-    padding: 24px 0px;
-}
 
 .address-form {
     display: flex;
