@@ -134,7 +134,8 @@
 
 
 .our-team-form {
-    padding: 120px 0px;
+    display: flex;
+    gap: 24px;
 
 }
 
@@ -148,7 +149,7 @@
     margin-bottom:72px;
 }
 
-section-three-ul{
+.section-three-ul{
     display: flex;
     gap: 24px;
 }
@@ -159,10 +160,16 @@ section-three-ul{
 
 }
 
-.ourteam-img-form{
+.ourteam-li-form{
+    padding: 32px 0px;
    
 }
 
-.ourteam-img-div{
-    padding: 32px 0px;
+.ourteam-hthree-title-form{
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.ourteam-p-form{
+    text-align: center;
 }
