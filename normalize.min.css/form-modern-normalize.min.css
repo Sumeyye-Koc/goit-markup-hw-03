@@ -36,6 +36,13 @@
     gap: 40px;
 }
 
+.order-title {
+    max-width: 496px;
+}
+
+.order-service {
+    padding: 188px 0px;
+}
 
 .order-button {
     display: block;
@@ -46,4 +53,9 @@
     background-color: #4D5AE5;
     border-radius: 4px;
     cursor: pointer;
+}
+
+
+.container-div {
+
 }
