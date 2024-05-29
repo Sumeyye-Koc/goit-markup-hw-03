@@ -79,21 +79,6 @@
     display: block;
 }
 
-.menu-header{
-    border-bottom: 1px solid #e7e9fc;
-}
-
-.header-div {
-    display: flex;
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px 0 15px;
-}
-
-.header-nav {
-    display: flex;
-    align-items: center;
-}
 
 .logo-form {
     margin-right: 73px;
@@ -132,7 +117,7 @@
     cursor: pointer;
 }
 
-.section-two-htwo{
+.visually-hidden {
     visibility: hidden;
 }
 
@@ -161,8 +146,8 @@
 .ourteam-li{
     width: calc((100% - 72px)/4);
     border-radius: 0px 0px 4px 4px;
-    padding: 32px 0px;
-
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 .ourteam-img-form{
@@ -188,7 +173,7 @@
     padding-top: 120px;
 }
 
-.htwo-our-portfolio-two{
+.htwo-our-portfolio-form{
     margin-bottom: 72px;
 }
 
