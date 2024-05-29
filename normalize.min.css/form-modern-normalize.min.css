@@ -139,23 +139,28 @@
 }
 
 .section-three-div{
+    padding: 120px 0px;
     
 }
 
 
 .htwo-form{
-    margin-bottom: 72px;
+    margin-bottom:72px;
+}
+
+section-three-ul{
+    display: flex;
+    gap: 24px;
 }
 
 .ourteam-li{
-    display: flex;
-    gap: 24px;
+    width: calc((100% - 72px)/4);
+    border-radius: 0px 0px 4px 4px;
 
 }
 
 .ourteam-img-form{
-    width: calc((100% - 72px)/4);
-    border-radius: 0px 0px 4px 4px;
+   
 }
 
 .ourteam-img-div{
