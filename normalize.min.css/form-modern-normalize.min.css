@@ -133,8 +133,6 @@ img{
 
 <!--Section 3-->
 .our-team-form {
-    display: flex;
-    gap: 24px;
     padding: 120px 0px;
 }
 
