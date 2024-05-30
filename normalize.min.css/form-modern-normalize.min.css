@@ -133,13 +133,13 @@ img{
 
 <!--Section 3-->
 .our-team-form {
-    padding: 120px 0px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .section-three-ul{
     display: flex;
     gap: 24px;
-    padding: 120px 0px;
 }
 
 .ourteam-li{
