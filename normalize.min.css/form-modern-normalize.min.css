@@ -16,7 +16,12 @@ img{
 }
 
 
-
+header {
+    border-bottom: 1px solid #e7e9fc;
+    height: 72px;
+    display: flex;
+    align-items: center;
+}
 
 .menu-header .header-title{
     border-bottom: 1px solid #e7e9fc;
