@@ -134,6 +134,10 @@ img{
     padding-bottom:120px;
 }
 
+.section-three-div{
+    padding-top:120px;
+    padding-bottom:120px;
+}
 .htwo-form{
     margin-bottom:72px;
 }
@@ -141,8 +145,6 @@ img{
 .section-three-ul{
     display: flex;
     gap: 24px;
-    padding-top:120px;
-    padding-bottom:120px;
 }
 
 .ourteam-li{
