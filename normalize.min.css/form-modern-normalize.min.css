@@ -106,7 +106,7 @@ img{
 }
 
 .visually-hidden {
-    overflow: hidden;
+    visibility: hidden;
 }
 
 .our-team-form {
@@ -143,11 +143,6 @@ img{
     padding-bottom: 32px;
 }
 
-.ourteam-li-form{
- 
-   
-}
-
 .ourteam-hthree-title-form{
     text-align: center;
     margin-bottom: 8px;
@@ -174,14 +169,14 @@ img{
 }
 
 .our-portfolio-li{
-    width: calc((100% - 48px) / 3);
+    width: calc((100%-48px)/3);
 }
 
 .app-div{
-    padding: 32px 16x;
+    margin: 32px 16x;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
+    padding-bottom: 8px;
 }
 
 .footer{
