@@ -1,4 +1,10 @@
-
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
 img{
     display: block;
@@ -15,6 +21,14 @@ img{
     border-bottom: 1px solid #e7e9fc;
 }
 
+.header-div{
+    display: flex;
+    align-items: center;
+    width: 1158px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
 .header-nav {
     display: flex;
     align-items: center;
