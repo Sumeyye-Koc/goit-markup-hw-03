@@ -73,11 +73,7 @@ img{
     cursor: pointer;
 }
 
-
-.container-div-header {
-    width: 1158px;
-}
-
+ <!--Section 2-->
 .section-two-container{
     padding: 120px 0px;
 }
@@ -93,26 +89,6 @@ img{
 
 .hthree-title-form {
     margin-bottom: 8px;
-}
-
-
-.order-title {
-    max-width: 496px;
-}
-
-.order-service {
-    padding: 188px 0px;
-}
-
-.order-button {
-    display: block;
-    margin: auto;
-    min-width: 169px;
-    height: 56px;    
-    border: none;
-    background-color: #4D5AE5;
-    border-radius: 4px;
-    cursor: pointer;
 }
 
 .visually-hidden {
@@ -132,8 +108,7 @@ img{
 
 <!--Section 3-->
 .our-team .our-team-form{
-    padding-top:120px;
-    padding-bottom:120px;
+    padding: 120px 0px;
 }
 
 .htwo-form{
@@ -173,8 +148,7 @@ img{
  <!--Section 4-->
 
 .section-our-portfolio{
-    padding-top:120px;
-    padding-bottom:120px;
+    padding:120px 0 120px 0;
 }
 
 .htwo-our-portfolio-form{
