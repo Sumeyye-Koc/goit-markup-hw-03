@@ -139,6 +139,7 @@ img{
 .section-three-ul{
     display: flex;
     gap: 24px;
+    padding: 120px 0px;
 }
 
 .ourteam-li{
