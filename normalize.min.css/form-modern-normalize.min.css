@@ -1,7 +1,7 @@
 *,
 *::before,
 *::after {
-  box-sizing: content-box;
+  box-sizing: border-box;
   margin: 0; padding: 0;
 }
 
@@ -15,8 +15,10 @@ img{
     padding: 0 15px 0 15px;
 }
 
- <!--Header-->
-.menu-header . header-title{
+
+
+
+.menu-header .header-title{
     border-bottom: 1px solid #e7e9fc;
     height: 72px;
     display: flex;
@@ -53,7 +55,9 @@ img{
     gap: 40px;
 }
 
- <!--Section 1-->
+
+
+
 .order-title {
     max-width: 496px;
 }
@@ -107,7 +111,8 @@ img{
 }
 
 
-<!--Section 3-->
+
+
 .our-team .our-team-form{
     padding: 120px 0px;
 }
@@ -146,7 +151,9 @@ img{
     text-align: center;
 }
 
- <!--Section 4-->
+
+
+
 
 .section-our-portfolio{
     padding:120px 0 120px 0;
