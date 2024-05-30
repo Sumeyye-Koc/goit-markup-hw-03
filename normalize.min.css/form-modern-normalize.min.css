@@ -149,10 +149,6 @@ img{
     gap: 24px;
 }
 
-.ourteam-li-div{
-    padding-top: 32px;
-    padding-bottom: 32px;
-}
 
 .ourteam-li{
     width: calc((100% - 72px)/4);
