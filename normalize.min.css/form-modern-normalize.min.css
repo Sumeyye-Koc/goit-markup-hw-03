@@ -127,19 +127,22 @@ img{
   overflow: hidden;
 }
 
-.htwo-form{
-    margin-bottom:72px;
-}
 
 <!--Section 3-->
 .our-team{
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top:120px;
+    padding-bottom:120px;
+}
+
+.htwo-form{
+    margin-bottom:72px;
 }
 
 .section-three-ul{
     display: flex;
     gap: 24px;
+    padding-top:120px;
+    padding-bottom:120px;
 }
 
 .ourteam-li{
