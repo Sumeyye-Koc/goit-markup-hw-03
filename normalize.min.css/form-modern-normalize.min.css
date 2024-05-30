@@ -16,10 +16,11 @@ img{
     margin: 0px auto;
     padding: 0 15px 0 15px;
 }
+
+ <!--Header-->
 .menu-header{
     border-bottom: 1px solid #e7e9fc;
 }
-
 
 .header-nav {
     display: flex;
@@ -45,6 +46,7 @@ img{
     gap: 40px;
 }
 
+ <!--Section 1-->
 .order-title {
     max-width: 496px;
 }
@@ -86,10 +88,6 @@ img{
     margin-bottom: 8px;
 }
 
-.address-form {
-    display: flex;
-    gap: 40px;
-}
 
 .order-title {
     max-width: 496px;
