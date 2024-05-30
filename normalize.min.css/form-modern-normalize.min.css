@@ -175,7 +175,8 @@ img{
  <!--Section 4-->
 
 .section-our-portfolio {
-      padding: 120px 0px 120px 0px;
+    padding-top:120px;
+    padding-bottom:120px;
 }
 
 .htwo-our-portfolio-form{
