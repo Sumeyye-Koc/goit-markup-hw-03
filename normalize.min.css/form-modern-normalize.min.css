@@ -22,12 +22,6 @@ img{
 
 .header-div {
     display: flex;
-    margin: 0 auto;
-    padding: 0 15px 0 15px;
-}
-
-.header-standart-form {
-    width: 1158px;
 }
 
 .header-nav {
