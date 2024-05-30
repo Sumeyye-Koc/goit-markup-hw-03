@@ -19,6 +19,9 @@ img{
  <!--Header-->
 .menu-header . header-title{
     border-bottom: 1px solid #e7e9fc;
+    height: 72px;
+    display: flex;
+    align-items: center;
 }
 
 .header-div{
@@ -41,6 +44,7 @@ img{
 .nav-menu-ul {
     display: flex;
     gap: 40px;
+    list-style-type: none;
 }
 
 .nav-bar {
@@ -81,6 +85,7 @@ img{
 .section-two-ul {
     display: flex;
     gap: 24px;
+    list-style-type: none;
 }
 
 .section-two-li {
@@ -111,6 +116,10 @@ img{
     padding: 120px 0px;
 }
 
+.section-three-container {
+    padding: 32px 0;
+}
+
 .htwo-form{
     margin-bottom:72px;
 }
@@ -118,10 +127,12 @@ img{
 .section-three-ul{
     display: flex;
     gap: 24px;
+    list-style-type: none;
 }
 
 .ourteam-li{
     width: calc((100% - 72px)/4);
+    width: calc((100% - 3*24px)/4);
     border-radius: 0px 0px 4px 4px;
 }
 
@@ -143,6 +154,7 @@ img{
 
 .section-our-portfolio{
     padding:120px 0 120px 0;
+    margin-bottom: 72px;
 }
 
 .htwo-our-portfolio-form{
@@ -154,6 +166,7 @@ img{
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    list-style-type: none;
 }
 
 .our-portfolio-li{
