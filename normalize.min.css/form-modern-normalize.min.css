@@ -129,7 +129,7 @@ img{
 
 
 <!--Section 3-->
-.our-team{
+.our-team .our-team-form{
     padding-top:120px;
     padding-bottom:120px;
 }
@@ -171,6 +171,8 @@ img{
 .ourteam-p-form{
     text-align: center;
 }
+
+ <!--Section 4-->
 
 .section-our-portfolio{
     padding-bottom: 120px;
