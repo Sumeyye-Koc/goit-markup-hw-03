@@ -127,21 +127,19 @@ img{
   overflow: hidden;
 }
 
+.htwo-form{
+    margin-bottom:72px;
+}
+
+<!--Section 3-->
 .our-team-form {
     display: flex;
     gap: 24px;
     padding: 120px 0px;
-
 }
 
 .section-three-div{
-    padding: 120px 0px;
-    
-}
-
-
-.htwo-form{
-    margin-bottom:72px;
+    padding: 120px 0px;   
 }
 
 .section-three-ul{
@@ -149,13 +147,16 @@ img{
     gap: 24px;
 }
 
-
 .ourteam-li{
     width: calc((100% - 72px)/4);
     border-radius: 0px 0px 4px 4px;
+}
+
+.ourteam-li-form{
     padding-top: 32px;
     padding-bottom: 32px;
 }
+
 
 .ourteam-img-form {
     padding-top: 32px;
